@@ -1,0 +1,13 @@
+Source: netrunner-desktop-settings
+Section: unknown
+Priority: optional
+Maintainer: Rohan Garg <rohan@kde.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/netrunner-desktop/netrunner-desktop-settings
+
+Package: netrunner-desktop-settings
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: netrunner desktop specific settings
+ This package contains settings that are specific to Netrunner Desktop
