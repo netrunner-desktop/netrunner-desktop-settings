@@ -7,3 +7,5 @@ if [ -z "$XDG_DATA_DIRS" ]; then
   XDG_DATA_DIRS=/usr/share:/usr/local/share
 fi
 export XDG_DATA_DIRS=/usr/share/netrunner-desktop-settings/plasma5-profile:$XDG_DATA_DIRS 
+# Enable Portal support for FF
+export GTK_USE_PORTAL=1
