@@ -1,2 +1,5 @@
 [KDE]
 LookAndFeelPackage=org.kde.netrunner-black.desktop
+
+[Icons]
+Theme=Obsidian
