@@ -3,5 +3,4 @@ BorderSize=None
 ButtonsOnLeft=M
 ButtonsOnRight=IAX
 CloseOnDoubleClickOnMenu=true
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Indigo
+library=org.kde.breeze
